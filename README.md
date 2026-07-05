@@ -108,31 +108,37 @@ LoginSystem/
 
 ## Home Page
 
-(Add Screenshot Here)
+<img width="1917" height="981" alt="homepage" src="https://github.com/user-attachments/assets/afb3b818-ae68-418a-a62d-07d6954877ee" />
+
 
 ---
 
 ## AWS Cognito Login
 
-(Add Screenshot Here)
+<img width="1917" height="984" alt="signin" src="https://github.com/user-attachments/assets/24fd11ce-8062-4ee3-b245-fba1b288faaf" />
+<img width="1917" height="977" alt="password" src="https://github.com/user-attachments/assets/24b91dac-7feb-4b8a-b8f9-fdf4b90b84f5" />
+
 
 ---
 
 ## User Dashboard
 
-(Add Screenshot Here)
+<img width="1919" height="973" alt="userdashboard" src="https://github.com/user-attachments/assets/e8d407c0-5faa-4f1c-98e3-ab680790b6fd" />
+
 
 ---
 
 ## AWS Cognito User Pool
 
-(Add Screenshot Here)
+<img width="1919" height="340" alt="cognito" src="https://github.com/user-attachments/assets/bb429b54-e333-4342-9fa3-4de03d6205af" />
+
 
 ---
 
 ## EC2 Instance
 
-(Add Screenshot Here)
+<img width="1062" height="571" alt="ec2" src="https://github.com/user-attachments/assets/aba18474-31e1-499c-82a7-3dbf77c84ddf" />
+
 
 ---
 
