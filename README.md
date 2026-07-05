@@ -157,23 +157,6 @@ During this project I learned:
 
 ---
 
-# 🏰 Kingdom Analogy
-
-This project can be understood using the Kingdom analogy:
-
-- 🏰 Kingdom → AWS Cloud
-- 🚪 Palace Gate → Amazon Cognito Hosted UI
-- 🛡️ Royal Guards → Cognito Authentication
-- 📜 Royal Identity Scroll → ID Token
-- 👑 King's Approval → User Authentication
-- 🏛️ Palace (EC2) → PHP Application
-- 🔐 Secret Royal Tunnel → HTTPS
-- 📂 Royal Records → User Session
-
-Only people approved by the Royal Guards (Amazon Cognito) are allowed to enter the Palace (EC2 Application).
-
----
-
 # 💻 How to Run
 
 1. Launch an Amazon EC2 Instance
